@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\dcit318-assignment3-11136489\ConsoleApp3\bin\Debug\net8.0\ConsoleApp3.exe
+C:\Users\DELL\source\repos\dcit318-assignment3-11136489\ConsoleApp3\bin\Debug\net8.0\ConsoleApp3.deps.json
+C:\Users\DELL\source\repos\dcit318-assignment3-11136489\ConsoleApp3\bin\Debug\net8.0\ConsoleApp3.runtimeconfig.json
+C:\Users\DELL\source\repos\dcit318-assignment3-11136489\ConsoleApp3\bin\Debug\net8.0\ConsoleApp3.dll
+C:\Users\DELL\source\repos\dcit318-assignment3-11136489\ConsoleApp3\bin\Debug\net8.0\ConsoleApp3.pdb
+C:\Users\DELL\source\repos\dcit318-assignment3-11136489\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\dcit318-assignment3-11136489\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\dcit318-assignment3-11136489\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.AssemblyInfo.cs
+C:\Users\DELL\source\repos\dcit318-assignment3-11136489\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\dcit318-assignment3-11136489\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.sourcelink.json
+C:\Users\DELL\source\repos\dcit318-assignment3-11136489\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.dll
+C:\Users\DELL\source\repos\dcit318-assignment3-11136489\ConsoleApp3\obj\Debug\net8.0\refint\ConsoleApp3.dll
+C:\Users\DELL\source\repos\dcit318-assignment3-11136489\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.pdb
+C:\Users\DELL\source\repos\dcit318-assignment3-11136489\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.genruntimeconfig.cache
+C:\Users\DELL\source\repos\dcit318-assignment3-11136489\ConsoleApp3\obj\Debug\net8.0\ref\ConsoleApp3.dll
