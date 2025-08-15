@@ -1,11 +1,24 @@
 ﻿using System;
 
-class Program
+/*class Program
 {
     static void Main()
     {
         var app = new FinanceApp();
         app.Run();
+
+        Console.WriteLine("\nPress any key to exit...");
+        Console.ReadKey();
+    }
+}*/
+
+
+class Program
+{
+    static void Main()
+    {
+        var healthApp = new HealthSystemApp();
+        healthApp.Run();
 
         Console.WriteLine("\nPress any key to exit...");
         Console.ReadKey();
