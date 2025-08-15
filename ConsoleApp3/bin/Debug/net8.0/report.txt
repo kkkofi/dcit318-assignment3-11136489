@@ -1,0 +1,4 @@
+Kojo Hanes (ID: 101): Score = 89, Grade = A
+Bobby Quansah (ID: 102): Score = 73, Grade = B
+Mara Lesley (ID: 103): Score = 67, Grade = C
+Akosua Frimpong Wu (ID: 104): Score = 45, Grade = F

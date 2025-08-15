@@ -23,7 +23,7 @@
         Console.WriteLine("\nPress any key to exit...");
         Console.ReadKey();
     }
-} */
+} 
 
 class Program
 {
@@ -35,5 +35,19 @@ class Program
         Console.WriteLine("\nPress any key to exit...");
         Console.ReadKey();
     }
+}  */
+
+
+class Program
+{
+    static void Main()
+    {
+        var schoolApp = new SchoolApp();
+        schoolApp.Run();
+
+        Console.WriteLine("\nPress any key to exit...");
+        Console.ReadKey();
+    }
 }
+
 
