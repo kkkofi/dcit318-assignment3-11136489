@@ -13,7 +13,7 @@
 }*/
 
 
-class Program
+/*class Program
 {
     static void Main()
     {
@@ -23,4 +23,17 @@ class Program
         Console.WriteLine("\nPress any key to exit...");
         Console.ReadKey();
     }
+} */
+
+class Program
+{
+    static void Main()
+    {
+        var manager = new WareHouseManager();
+        manager.Run();
+
+        Console.WriteLine("\nPress any key to exit...");
+        Console.ReadKey();
+    }
 }
+
